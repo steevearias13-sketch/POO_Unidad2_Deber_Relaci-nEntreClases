@@ -36,4 +36,4 @@ Partiendo de una clase abstracta base (`ContenidoAudiovisual`), el dominio origi
 **Paso 1: Clonar el repositorio**
 Abre tu terminal o consola de Git y ejecuta el siguiente comando:
 ```bash
-git clone [https://github.com/steevearias13-sketch/POO_Unidad2_Deber_Relaci-nEntreClases.git](https://github.com/steevearias13-sketch/POO_Unidad2_Deber_Relaci-nEntreClases.git)
+git clone https://github.com/steevearias13-sketch/POO_Unidad2_Deber_Relaci-nEntreClases.git
